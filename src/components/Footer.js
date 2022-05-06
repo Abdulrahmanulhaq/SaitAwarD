@@ -35,7 +35,7 @@ const Footer = () => {
                             </svg>
                         </a> */}
                     </span>
-                    <p className=" text-xs poweredby">Powered by:&nbsp;
+                    <p className=" text-xs poweredby">Powered By:&nbsp;
                         <a href="http://www.brdigitech.com" target="blank" className="poweredby-link"><i>Button R Digitech (bRd)</i></a>
                     </p>
                 </div>
